@@ -1,8 +1,8 @@
-# 导航页
+# 封面 & 导航
 
  
 
-![&#x5C01;&#x9762;](.gitbook/assets/cover.jpg)
+![&#x5C01;&#x9762;](.gitbook/assets/cover%20%281%29.jpg)
 
 本文档是该作品的备用翻译发布页面。
 

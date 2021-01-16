@@ -1,6 +1,6 @@
 # Table of contents
 
-* [导航页](README.md)
+* [封面 & 导航](README.md)
 * [汉化信息](han-hua-xin-xi.md)
 * [简介](jian-jie.md)
 * [序幕](xu-mu.md)
