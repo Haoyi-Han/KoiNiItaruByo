@@ -2,7 +2,7 @@
 
  
 
-![&#x5C01;&#x9762;](.gitbook/assets/cover%20%281%29.jpg)
+![&#x5C01;&#x9762;](.gitbook/assets/cover.jpg)
 
 本文档是该作品的备用翻译发布页面。
 
